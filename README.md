@@ -3,7 +3,7 @@ observer of xbsoft
 
  - install
 ```
-composer require xb/observer
+composer require xbsoft/observer
 ```
 
  - example
