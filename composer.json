@@ -1,0 +1,20 @@
+{
+    "name": "xb/observer",
+    "description": "observer of xbsoft",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "enze",
+            "email": "enzewei@gmail.com"
+        }
+    ],
+	"autoload" : {
+		"psr-4" : {
+			"xb\\observer\\" : "src/"
+		}
+	}
+}
