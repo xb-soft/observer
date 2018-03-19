@@ -1,5 +1,5 @@
 {
-    "name": "xb/observer",
+    "name": "xbsoft/observer",
     "description": "observer of xbsoft",
     "type": "library",
     "require": {
